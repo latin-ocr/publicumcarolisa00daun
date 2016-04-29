@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publicumcarolisa00daun_0064.png"; bbox 0 0 2134 3324; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 629 462 1590 944">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 629 462 1590 944">
+     <span class='ocr_line' id='line_1_1' title="bbox 629 462 1590 944; baseline 0 2380"><span class='ocrx_word' id='word_1_1' title='bbox 629 462 1590 944; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 366 1203 1894 1740">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 366 1203 1894 1740">
+     <span class='ocr_line' id='line_1_2' title="bbox 829 1203 1427 1257; baseline 0.008 -7"><span class='ocrx_word' id='word_1_2' title='bbox 829 1203 1116 1257; x_wconf 19' lang='lat' dir='ltr'><strong>*OFFlclA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1158 1203 1427 1257; x_wconf 80' lang='lat' dir='ltr'>C1V1uM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 926 1301 1325 1375; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 926 1301 1325 1375; x_wconf 70' lang='lat' dir='ltr'>PRINCIPEM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 707 1442 1566 1506; baseline -0.001 -11"><span class='ocrx_word' id='word_1_5' title='bbox 707 1443 1098 1496; x_wconf 61' lang='lat' dir='ltr'>BENEFJCJA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1143 1442 1566 1506; x_wconf 71' lang='lat' dir='ltr'>REPUTARE3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1006 1561 1257 1615; baseline 0.008 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1006 1563 1078 1613; x_wconf 71' lang='grc' dir='ltr'>η)</span> <span class='ocrx_word' id='word_1_8' title='bbox 1122 1561 1257 1615; x_wconf 71' lang='lat' dir='ltr'>EST.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 366 1680 1894 1740; baseline -0.003 -1"><span class='ocrx_word' id='word_1_9' title='bbox 366 1684 660 1740; x_wconf 75' lang='lat' dir='ltr'>MAGNO</span> <span class='ocrx_word' id='word_1_10' title='bbox 704 1683 965 1737; x_wconf 81' lang='lat' dir='ltr'><strong>ANIMO</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1009 1681 1305 1734; x_wconf 73' lang='lat' dir='ltr'>GERERE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1348 1680 1894 1735; x_wconf 80' lang='lat' dir='ltr'>PRINCIPATUM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 884 2007 1357 2451">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 884 2007 1357 2451">
+     <span class='ocr_line' id='line_1_7' title="bbox 884 2007 1357 2451; baseline 0 873"><span class='ocrx_word' id='word_1_13' title='bbox 884 2007 1357 2451; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1746 2759 1857 2809">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1746 2759 1857 2809">
+     <span class='ocr_line' id='line_1_8' title="bbox 1746 2759 1857 2809; baseline -0.009 0"><span class='ocrx_word' id='word_1_14' title='bbox 1746 2759 1857 2809; x_wconf 79' lang='lat'><em>[1131</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

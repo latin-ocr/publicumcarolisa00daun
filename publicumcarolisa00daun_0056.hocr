@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publicumcarolisa00daun_0056.png"; bbox 0 0 2134 3324; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 385 1927 1519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 385 1927 1519">
+     <span class='ocr_line' id='line_1_1' title="bbox 289 385 1927 1519; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 289 385 1927 1519; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 1638 1735 1790">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 1638 1735 1790">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 1638 1735 1790; baseline -0.006 -20"><span class='ocrx_word' id='word_1_2' title='bbox 305 1638 444 1790; x_wconf 87' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_3' title='bbox 465 1717 652 1771; x_wconf 77' lang='lat' dir='ltr'><em>Larius</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 678 1728 738 1769; x_wconf 83' lang='lat' dir='ltr'><em>ut</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 748 1710 995 1787; x_wconf 79' lang='lat' dir='ltr'><em>splendet</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1013 1710 1181 1787; x_wconf 75' lang='lat' dir='ltr'><em>jubar</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1203 1716 1338 1767; x_wconf 84' lang='lat' dir='ltr'><em>inter</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1368 1708 1546 1764; x_wconf 75' lang='lat' dir='ltr'><em>nubila</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1570 1709 1735 1772; x_wconf 78' lang='lat' dir='ltr'><em>Solis,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 459 1868 1531 1945">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 459 1868 1531 1945">
+     <span class='ocr_line' id='line_1_3' title="bbox 459 1868 1531 1945; baseline -0.009 -13"><span class='ocrx_word' id='word_1_10' title='bbox 459 1872 706 1945; x_wconf 73' lang='lat' dir='ltr'><em>Adversis</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 737 1869 1005 1940; x_wconf 68' lang='lat' dir='ltr'><em>virtus-stc</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1036 1876 1164 1927; x_wconf 80' lang='lat' dir='ltr'><em>nitet</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1190 1871 1285 1940; x_wconf 67' lang='lat' dir='ltr'><em>ista</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1316 1868 1496 1923; x_wconf 53' lang='lat' dir='ltr'><em>viram</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1515 1907 1531 1922; x_wconf 87' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 788 2148 1430 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 788 2148 1430 2406">
+     <span class='ocr_line' id='line_1_4' title="bbox 788 2148 1430 2406; baseline 0 918"><span class='ocrx_word' id='word_1_16' title='bbox 788 2148 1430 2406; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1719 2742 1840 2794">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1719 2742 1840 2794">
+     <span class='ocr_line' id='line_1_5' title="bbox 1719 2742 1840 2794; baseline -0.041 0"><span class='ocrx_word' id='word_1_17' title='bbox 1719 2742 1840 2794; x_wconf 77' lang='lat' dir='ltr'><em>Non</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

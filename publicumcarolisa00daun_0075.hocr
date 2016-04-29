@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publicumcarolisa00daun_0075.png"; bbox 0 0 2134 3324; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 747 418 1267 891">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 747 418 1267 891">
+     <span class='ocr_line' id='line_1_1' title="bbox 747 418 1267 891; baseline 0 2433"><span class='ocrx_word' id='word_1_1' title='bbox 747 418 1267 891; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 513 1161 1530 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 513 1161 1530 1694">
+     <span class='ocr_line' id='line_1_2' title="bbox 694 1161 1344 1217; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 694 1161 996 1217; x_wconf 84' lang='lat' dir='ltr'>FUNERA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1033 1162 1344 1216; x_wconf 85' lang='lat' dir='ltr'>PUBLICA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 926 1280 1120 1334; baseline 0.01 -2"><span class='ocrx_word' id='word_1_4' title='bbox 926 1280 1120 1334; x_wconf 88' lang='lat' dir='ltr'>SUNT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 654 1400 1389 1454; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 654 1400 994 1454; x_wconf 75' lang='lat' dir='ltr'>FORTIUM.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1033 1401 1389 1454; x_wconf 84' lang='lat' dir='ltr'><strong>VIRORUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 513 1517 1530 1575; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 513 1520 741 1575; x_wconf 88' lang='lat' dir='ltr'>INTER</span> <span class='ocrx_word' id='word_1_8' title='bbox 782 1519 1209 1574; x_wconf 85' lang='lat' dir='ltr'><strong>HORRENDA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1250 1517 1530 1574; x_wconf 82' lang='lat' dir='ltr'>MORTIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 669 1638 1401 1694; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 669 1638 1370 1694; x_wconf 75' lang='lat' dir='ltr'><strong>OBLECTAMENTUM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1388 1679 1401 1692; x_wconf 91' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 513 1918 1583 2538">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 513 1918 1583 2538">
+     <span class='ocr_line' id='line_1_7' title="bbox 513 1918 1583 2538; baseline 0 786"><span class='ocrx_word' id='word_1_12' title='bbox 513 1918 1583 2538; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1597 2703 1777 2772">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1597 2703 1777 2772">
+     <span class='ocr_line' id='line_1_8' title="bbox 1597 2703 1777 2772; baseline -0.006 -18"><span class='ocrx_word' id='word_1_13' title='bbox 1597 2703 1777 2772; x_wconf 73' lang='lat' dir='ltr'>Quo</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publicumcarolisa00daun_0066.png"; bbox 0 0 2134 3324; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 402 262 474 308">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 402 262 474 308">
+     <span class='ocr_line' id='line_1_1' title="bbox 402 262 474 308; baseline -0.028 0"><span class='ocrx_word' id='word_1_1' title='bbox 402 262 474 308; x_wconf 77' lang='lat'>44</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 830 486 1467 861">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 830 486 1467 861">
+     <span class='ocr_line' id='line_1_2' title="bbox 830 486 1467 861; baseline 0 2463"><span class='ocrx_word' id='word_1_2' title='bbox 830 486 1467 861; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 543 1278 1803 1583">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 543 1278 1803 1583">
+     <span class='ocr_line' id='line_1_3' title="bbox 974 1278 1283 1343; baseline 0.013 -14"><span class='ocrx_word' id='word_1_3' title='bbox 974 1278 1283 1343; x_wconf 70' lang='lat' dir='ltr'><strong>CIVIBUS,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 769 1391 1456 1457; baseline 0.022 -14"><span class='ocrx_word' id='word_1_4' title='bbox 769 1391 948 1445; x_wconf 71' lang='lat' dir='ltr'>NON</span> <span class='ocrx_word' id='word_1_5' title='bbox 983 1394 1099 1449; x_wconf 78' lang='lat' dir='ltr'>SIBI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1135 1395 1456 1457; x_wconf 73' lang='lat' dir='ltr'>REGNAT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 543 1511 1803 1583; baseline 0.018 -23"><span class='ocrx_word' id='word_1_7' title='bbox 543 1530 573 1560; x_wconf 68' lang='lat'>1⁴</span> <span class='ocrx_word' id='word_1_8' title='bbox 612 1511 821 1574; x_wconf 58' lang='lat' dir='ltr'>„³2L1‘3,</span> <span class='ocrx_word' id='word_1_9' title='bbox 868 1515 966 1567; x_wconf 77' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_10' title='bbox 1008 1519 1401 1577; x_wconf 78' lang='lat' dir='ltr'>MUNIFICLIS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1445 1526 1803 1583; x_wconf 70' lang='lat' dir='ltr'>PRINCEPS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 739 1961 1492 2571">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 739 1961 1492 2571">
+     <span class='ocr_line' id='line_1_6' title="bbox 739 1961 1492 2571; baseline 0 753"><span class='ocrx_word' id='word_1_12' title='bbox 739 1961 1492 2571; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1748 2767 1841 2817">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1748 2767 1841 2817">
+     <span class='ocr_line' id='line_1_7' title="bbox 1748 2767 1841 2817; baseline 0.022 -1"><span class='ocrx_word' id='word_1_13' title='bbox 1748 2767 1841 2817; x_wconf 89' lang='lat' dir='ltr'>VI-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
